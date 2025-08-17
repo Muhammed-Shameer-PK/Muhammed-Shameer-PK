@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Shameer 👋
 
-<!--
-**Muhammed-Shameer-PK/Muhammed-Shameer-PK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about **Web Development, AI/ML, and Problem Solving**  
+🚀 Currently building **AI Music Studio** (🎶 In Progress)  
+🌱 Exploring **scam detection & AI-powered safety tools** through my project **YSCAM**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Featured Projects
+- 🎶 **AI Music Studio** *(In Progress)*  
+  An AI-powered platform where users can create music by inputting lyrics and tunes.  
+
+- 🛡️ **YSCAM**  
+  A detection system to identify scam messages and fake offers, helping people stay safe online.  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript, Python, C++  
+**Frontend:** React, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, MongoDB  
+**AI/ML:** TensorFlow, PyTorch, Scikit-learn  
+**Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Shameer-PK&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Shameer-PK&layout=compact&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammed-Shameer-PK&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- 📧 [Email Me](mailto:your-email@example.com)  
+- 💼 [LinkedIn](#) *(add your profile link here)*  
+- 📝 [Portfolio Website](#) *(optional)*  
+
+---
+
+✨ *“Learning never stops — every project is a step forward.”*
