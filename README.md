@@ -32,9 +32,8 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 [Email Me](mailto:your-email@example.com)  
-- 💼 [LinkedIn](#) *(add your profile link here)*  
-- 📝 [Portfolio Website](#) *(optional)*  
+- 📧 [Email Me](mailto:muhammedshameer616@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/muhammed-shameer-4591b9289)  
 
 ---
 
